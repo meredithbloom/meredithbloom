@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meredithbloom
 - 👀 I’m interested in full-stack web development, machine learning, and game dev.
-- 🌱 I’m currently building my skills, strengthening my portfolio, and finding a job.
+- 🌱 I’m currently building my skills, strengthening my portfolio, and on the hunt for a job.
 - 💞️ I’m looking to ....
 - 📫 How to reach me ... meredith.kbloom@gmail.com.
 
