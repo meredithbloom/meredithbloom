@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meredithbloom
 - 👀 I’m interested in full-stack web development, natural language processing, and game dev.
-- 🌱 I’m currently building my skills, strengthening my portfolio, and on the hunt for a job.
+- 🌱 I'm a software engineer on the Product Development team at GasBuddy.
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me ... meredith.kbloom@gmail.com.
 
