@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @meredithbloom
-- 👀 I’m interested in back-end web development, natural language processing and game dev.
+- 👀 I’m interested in back-end web development, natural language processing, and game dev.
 - 🌱 I'm a software engineer on the Core Services team at GasBuddy.
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me ... meredith.kbloom@gmail.com.
